@@ -37,3 +37,10 @@ This project presents an interactive Coffee Sales Analytics Dashboard created us
 ---
 
 This project demonstrates how data-driven decision making can support marketing strategies by analyzing coffee product performance, payment preferences, and monthly sales trends.
+
+---
+
+👨‍💻 Dibuat oleh: **Bagus Akbar Harimanto**  
+Future Data Analyst | Data Enthusiast  
+
+🔗 [LinkedIn Saya](https://www.linkedin.com/in/bagus-akbar-harimanto/)
